@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I used to develop desktop applications; now I’m interested in ML & DS
+### I used to develop desktop applications; now interested in ML & DS
 
 ### Learning:
 - DL
